@@ -1,0 +1,15 @@
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\Demo.EF.csproj.AssemblyReference.cache
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\Demo.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\Demo.EF.AssemblyInfoInputs.cache
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\Demo.EF.AssemblyInfo.cs
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\Demo.EF.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\source\repos\Demo.EF\bin\Debug\net5.0\Demo.EF.deps.json
+C:\Users\mostafa\source\repos\Demo.EF\bin\Debug\net5.0\Demo.EF.dll
+C:\Users\mostafa\source\repos\Demo.EF\bin\Debug\net5.0\Demo.EF.pdb
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\Demo.EF.dll
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\refint\Demo.EF.dll
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\Demo.EF.pdb
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\ref\Demo.EF.dll
+C:\Users\mostafa\source\repos\Demo.EF\bin\Debug\net5.0\Demo.EF.runtimeconfig.json
+C:\Users\mostafa\source\repos\Demo.EF\bin\Debug\net5.0\Demo.EF.runtimeconfig.dev.json
+C:\Users\mostafa\source\repos\Demo.EF\obj\Debug\net5.0\Demo.EF.genruntimeconfig.cache

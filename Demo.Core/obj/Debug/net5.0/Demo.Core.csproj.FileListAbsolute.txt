@@ -1,0 +1,15 @@
+C:\Users\mostafa\source\repos\Demo.Core\bin\Debug\net5.0\Demo.Core.deps.json
+C:\Users\mostafa\source\repos\Demo.Core\bin\Debug\net5.0\Demo.Core.dll
+C:\Users\mostafa\source\repos\Demo.Core\bin\Debug\net5.0\Demo.Core.pdb
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\Demo.Core.csproj.AssemblyReference.cache
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\Demo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\Demo.Core.AssemblyInfoInputs.cache
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\Demo.Core.AssemblyInfo.cs
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\Demo.Core.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\Demo.Core.dll
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\refint\Demo.Core.dll
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\Demo.Core.pdb
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\ref\Demo.Core.dll
+C:\Users\mostafa\source\repos\Demo.Core\bin\Debug\net5.0\Demo.EF.dll
+C:\Users\mostafa\source\repos\Demo.Core\bin\Debug\net5.0\Demo.EF.pdb
+C:\Users\mostafa\source\repos\Demo.Core\obj\Debug\net5.0\Demo.Core.csproj.CopyComplete
